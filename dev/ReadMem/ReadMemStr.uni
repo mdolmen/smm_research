@@ -1,0 +1,11 @@
+// /** @file
+// **/
+
+/=#
+
+#langdef en-US "English"
+
+#string STR_DELL_SMM_EXPLOIT_HELP_INFORMATION        #language en-US ""
+".TH ReadMem 0 "Dell SMM exploit PoC."\r\n"
+".SH NAME\r\n"
+"Dell SMM exploit PoC.\r\n"
